@@ -4,7 +4,7 @@
 package JX9
 import (
 	"fmt"
-	"../../unqlitego"
+	"github.com/tpotlog/unqlitego"
 )
 
 
